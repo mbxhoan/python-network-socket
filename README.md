@@ -36,3 +36,10 @@ This repository demonstrates how to create a Python network socket server and AP
 3. BarTender will process the data and print the labels.
 
 Remember to replace placeholders with actual code and configuration specific to your environment. For detailed examples and step-by-step instructions, refer to the BarTender Integration Builder documentation.
+
+## Installation
+
+Install the required Python packages using the following command:
+
+```bash
+pip install -r requirements.txt
